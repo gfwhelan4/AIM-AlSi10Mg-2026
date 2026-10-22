@@ -1,0 +1,51 @@
+{
+  "title": "Data and code for: Accelerated Qualification of Materials for Additive Manufacturing using ICME with Uncertainty Quantification",
+  "upload_type": "dataset",
+  "description": "<p>Tensile test data (40 specimens at 30 µm layer thickness across three powder heats and 61 specimens at 60 µm across three powder reuse states), 1,500-point simulated yield-strength and ultimate-tensile-strength populations (uncalibrated and calibrated), three-parameter Weibull fits for yield strength, posterior traces, minimum strengths, and the Jupyter notebook used for the calibration and Bayesian Weibull analysis, supporting the article submitted to Integrating Materials and Manufacturing Innovation.</p>",
+  "creators": [
+    {
+      "name": "Sandoval, Hector",
+      "affiliation": "Lockheed Martin"
+    },
+    {
+      "name": "Metcalf, Daniel",
+      "affiliation": "Lockheed Martin"
+    },
+    {
+      "name": "Saboo, Abhinav",
+      "affiliation": "QuesTek Innovations LLC"
+    },
+    {
+      "name": "Kontsevoi, Oleg",
+      "affiliation": "QuesTek Innovations LLC"
+    },
+    {
+      "name": "Love, Andrea",
+      "affiliation": "QuesTek Innovations LLC"
+    },
+    {
+      "name": "Zhong, Wei",
+      "affiliation": "QuesTek Innovations LLC"
+    },
+    {
+      "name": "Whelan, Gary",
+      "affiliation": "QuesTek Innovations LLC"
+    },
+    {
+      "name": "Medina, Francisco",
+      "affiliation": "The University of Texas at El Paso"
+    }
+  ],
+  "keywords": [
+    "additive manufacturing",
+    "AlSi10Mg",
+    "ICME",
+    "uncertainty quantification",
+    "Weibull distribution",
+    "Bayesian calibration",
+    "PyMC"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "notes": "Funded by Lockheed Martin. Data are licensed CC BY 4.0; code in code/ is licensed MIT."
+}

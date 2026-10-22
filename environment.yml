@@ -1,0 +1,19 @@
+# Versions used to produce the deposited results
+name: immi-weibull
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - pymc==5.16.2
+      - pytensor==2.25.5
+      - arviz==0.19.0
+      - numpy==1.26.4
+      - scipy==1.17.1
+      - pandas==3.0.2
+      - matplotlib==3.10.8
+      - h5py==3.16.0
+      - netcdf4==1.7.5
+      - papermill==2.7.0
+      - ipykernel==7.4.0

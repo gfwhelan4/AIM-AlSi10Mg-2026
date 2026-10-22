@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this archive."
+title: "Data and code for: Accelerated Qualification of Materials for Additive Manufacturing using ICME with Uncertainty Quantification"
+type: dataset
+authors:
+  - family-names: "Sandoval"
+    given-names: "Hector"
+    affiliation: "Lockheed Martin"
+  - family-names: "Metcalf"
+    given-names: "Daniel"
+    affiliation: "Lockheed Martin"
+  - family-names: "Saboo"
+    given-names: "Abhinav"
+    affiliation: "QuesTek Innovations LLC"
+  - family-names: "Kontsevoi"
+    given-names: "Oleg"
+    affiliation: "QuesTek Innovations LLC"
+  - family-names: "Love"
+    given-names: "Andrea"
+    affiliation: "QuesTek Innovations LLC"
+  - family-names: "Zhong"
+    given-names: "Wei"
+    affiliation: "QuesTek Innovations LLC"
+  - family-names: "Whelan"
+    given-names: "Gary"
+    affiliation: "QuesTek Innovations LLC"
+  - family-names: "Medina"
+    given-names: "Francisco"
+    affiliation: "The University of Texas at El Paso"
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/gfwhelan4/AIM-AlSi10Mg-2026"
+contact:
+  - family-names: "Whelan"
+    given-names: "Gary"
+    email: "gwhelan@questek.com"
+    affiliation: "QuesTek Innovations LLC"
+keywords:
+  - additive manufacturing
+  - AlSi10Mg
+  - ICME
+  - uncertainty quantification
+  - Weibull distribution
+  - Bayesian calibration
+  - PyMC
+preferred-citation:
+  type: article
+  status: submitted
+  authors:
+    - family-names: "Sandoval"
+      given-names: "Hector"
+    - family-names: "Metcalf"
+      given-names: "Daniel"
+    - family-names: "Saboo"
+      given-names: "Abhinav"
+    - family-names: "Kontsevoi"
+      given-names: "Oleg"
+    - family-names: "Love"
+      given-names: "Andrea"
+    - family-names: "Zhong"
+      given-names: "Wei"
+    - family-names: "Whelan"
+      given-names: "Gary"
+    - family-names: "Medina"
+      given-names: "Francisco"
+  title: "Accelerated Qualification of Materials for Additive Manufacturing using ICME with Uncertainty Quantification"
+  journal: "Integrating Materials and Manufacturing Innovation"

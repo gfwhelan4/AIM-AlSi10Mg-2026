@@ -1,8 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23578702.svg)](https://doi.org/10.5281/zenodo.23578702)
+
 # Data and code for: Accelerated Qualification of Materials for Additive Manufacturing using ICME with Uncertainty Quantification
 
 This repository has the data and code behind the conclusions of:
 
 > H. Sandoval, D. Metcalf, A. Saboo, O. Kontsevoi, A. Love, W. Zhong, G. Whelan, F. Medina. Accelerated Qualification of Materials for Additive Manufacturing using ICME with Uncertainty Quantification. *Integrating Materials and Manufacturing Innovation* (submitted).
+
+Archived version (cite this): https://doi.org/10.5281/zenodo.23578702
 
 ## Overview
 

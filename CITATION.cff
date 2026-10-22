@@ -27,7 +27,8 @@ authors:
   - family-names: "Medina"
     given-names: "Francisco"
     affiliation: "The University of Texas at El Paso"
-version: "1.0.0"
+version: "1.0.1"
+doi: "10.5281/zenodo.23578702"
 license: CC-BY-4.0
 repository-code: "https://github.com/gfwhelan4/AIM-AlSi10Mg-2026"
 contact:
